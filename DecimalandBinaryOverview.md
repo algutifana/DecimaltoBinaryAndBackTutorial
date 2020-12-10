@@ -10,3 +10,6 @@ Binary is a number system that uses only 2 numbers; **0 and 1**
 
 When talking about binary code, 0 represents **OFF**, 1 represents **ON**
 
+
+
+### How to convert Decimal to Binary: https://github.com/algutifana/DecimaltoBinaryAndBackTutorial/blob/main/DecimaltoBinary.md
