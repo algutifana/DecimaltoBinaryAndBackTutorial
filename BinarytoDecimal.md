@@ -11,3 +11,6 @@
 3. The above calculation once added equals 37
 4. Therefore, 100101 in decimal notation is 37.
 
+
+### How to convert Decimal to Binary: https://github.com/algutifana/DecimaltoBinaryAndBackTutorial/blob/main/DecimaltoBinary.md
+
