@@ -7,8 +7,9 @@
 
 ## Example
 
-1. 5/2 = 2 with 1 remainder
-2. 2/2 = 1 with 0 remainder
-3. 1/2 = 0 with 1 remainder
+1. Convert 5 to binary
+2. 5/2 = 2 with 1 remainder
+3. 2/2 = 1 with 0 remainder
+4. 1/2 = 0 with 1 remainder
 
 *Thus, 5 decimal in binary is **101***
