@@ -18,4 +18,4 @@
 
 ### How to convert Binary to Decimal: https://github.com/algutifana/DecimaltoBinaryAndBackTutorial/blob/main/BinarytoDecimal.md
 
-### How to convert Decimal to Binary: https://github.com/algutifana/DecimaltoBinaryAndBackTutorial/blob/main/DecimaltoBinary.md
+
