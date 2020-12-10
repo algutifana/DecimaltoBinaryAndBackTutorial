@@ -13,3 +13,7 @@
 4. 1/2 = 0 with 1 remainder
 
 *Thus, 5 decimal in binary is **101***
+
+
+
+### How to convert Binary to Decimal: https://github.com/algutifana/DecimaltoBinaryAndBackTutorial/blob/main/BinarytoDecimal.md
