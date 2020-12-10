@@ -13,3 +13,5 @@ When talking about binary code, 0 represents **OFF**, 1 represents **ON**
 
 
 ### How to convert Decimal to Binary: https://github.com/algutifana/DecimaltoBinaryAndBackTutorial/blob/main/DecimaltoBinary.md
+
+### How to convert Binary to Decimal: https://github.com/algutifana/DecimaltoBinaryAndBackTutorial/blob/main/BinarytoDecimal.md
